@@ -1,0 +1,19 @@
+# Core dependencies
+python-dotenv>=1.0.0
+nest_asyncio>=1.5.6
+datasets>=2.18.0
+numpy>=1.24.0
+
+# LlamaIndex
+llama-index-core>=0.10.22
+llama-index-embeddings-huggingface>=0.2.0
+llama-index-llms-google-genai>=0.2.0
+
+# Gemini + Google
+google-generativeai>=0.3.2
+
+# Evaluation tools
+deepeval>=0.24.10
+
+# Optional: If using Jupyter Notebooks
+jupyter>=1.0.0
