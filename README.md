@@ -2,9 +2,7 @@
 
 This repository contains the complete experimental notebook for the paper submitted to the **5th International Conference on AI Research (ICAIR)**:
 
-**Title**: *"Where Should Control Reside in Multi-Agent Language-Model Systems? Evaluating Governance Strategies for Trust and Safety."*
-
----
+**Title**: *"Where Should Control Reside in Multi-Agent Language-Model Systems?"*
 
 ## Overview
 
@@ -12,16 +10,14 @@ This work explores how different governance strategies—**centralized**, **dist
 
 The core logic, experiments, and evaluation are all contained in one Jupyter notebook:
 
-> `multi_agents_goverance_ICAIR_SQuAD_improved.ipynb`
+> `goverance_mechanisms_multi_agent_system.ipynb`
 
 The notebook includes:
 
 * A modular agentic workflow (Classifier, RAG, and Summarizer agents)
-* Control modes for centralized, distributed, and hybrid governance
-* Evaluation setup using [DeepEval](https://deepeval.com/docs/metrics-llm-evals) and custom `GEval` metrics
+* Control architectures for centralized, distributed, and hybrid governance
+* Evaluation setup using DeepEval[(https://deepeval.com/docs/metrics-llm-evals)] and custom `GEval` metrics
 * Comparison of performance using the SQuAD dataset (subset of 50 questions)
-
----
 
 ## Getting Started
 
