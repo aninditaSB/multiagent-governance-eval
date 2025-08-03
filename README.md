@@ -10,7 +10,7 @@ This work explores how different governance strategies—**centralized**, **dist
 
 The core logic, experiments, and evaluation are all contained in one Jupyter notebook:
 
-> `goverance_mechanisms_multi_agent_system.ipynb`
+> `agents/goverance_mechanisms_multi_agent_system.ipynb`
 
 The notebook includes:
 
