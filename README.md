@@ -43,7 +43,9 @@ Due to space limitations in the publication, we’ve included full implementatio
 
 ## Paper & License
 
-The research is under review at ICAIR 2025. Final citation and DOI will be updated here after acceptance.
+The research is under review at ICAIR 2025. 
+**Note:  This content is shared for learning and discussion. Please do not reuse without proper citation. 
+Final citation and DOI will be updated here after acceptance.
 
 This code is open-sourced under the MIT License.
 
